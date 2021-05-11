@@ -23,7 +23,8 @@ h1 {
 
 
     .small-img {
-        float: left;
+        /* float: left; */
+        display: flex;
     }
 
     .product {
@@ -39,6 +40,7 @@ h1 {
     }
 
     .img-container {
-        float: right;
+        /* float: right; */
         padding: 10px;
     }
+
